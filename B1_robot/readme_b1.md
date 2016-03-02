@@ -1,3 +1,3 @@
 #B1 robots
 
-Robots that was inspired by Darwin-OP
+Robots that were inspired by Darwin-OP
