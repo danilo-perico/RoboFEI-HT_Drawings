@@ -1,0 +1,12 @@
+﻿
+MASS =  1.5804192e+02 GRAM 
+
+CENTER OF GRAVITY with respect to MP_HEAD coordinate frame:
+X   Y   Z     6.3919849e-02  1.8564541e+01  7.6666217e+00  MM
+
+INERTIA at CENTER OF GRAVITY with respect to MP_HEAD coordinate frame:  (GRAM * MM^2)
+INERTIA TENSOR:
+Ixx Ixy Ixz  1.2396830e+05  7.8494368e+02 -7.6459790e+01
+Iyx Iyy Iyz  7.8494368e+02  1.1783781e+05  1.2199205e+04
+Izx Izy Izz -7.6459790e+01  1.2199205e+04  1.1583601e+05
+

@@ -1,0 +1,12 @@
+﻿
+MASS =  7.9446226e+01 GRAM 
+
+CENTER OF GRAVITY with respect to MP_FOOT_L coordinate frame:
+X   Y   Z     9.5058847e+00 -2.5995316e+01 -5.0287706e-01  MM
+
+INERTIA at CENTER OF GRAVITY with respect to MP_FOOT_L coordinate frame:  (GRAM * MM^2)
+INERTIA TENSOR:
+Ixx Ixy Ixz  6.8325629e+04  2.5330463e+03  2.1869558e+02
+Iyx Iyy Iyz  2.5330463e+03  8.7890505e+04  9.7620541e+02
+Izx Izy Izz  2.1869558e+02  9.7620541e+02  3.5840758e+04
+

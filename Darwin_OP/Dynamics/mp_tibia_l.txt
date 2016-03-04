@@ -1,0 +1,12 @@
+﻿
+MASS =  7.0309794e+01 GRAM 
+
+CENTER OF GRAVITY with respect to MP_TIBIA_L coordinate frame:
+X   Y   Z    -5.9246918e-01  5.3954532e+01  6.5476317e+00  MM
+
+INERTIA at CENTER OF GRAVITY with respect to MP_TIBIA_L coordinate frame:  (GRAM * MM^2)
+INERTIA TENSOR:
+Ixx Ixy Ixz  9.3369608e+04 -9.3567395e+02 -2.3992085e+02
+Iyx Iyy Iyz -9.3567395e+02  4.6295534e+04 -1.2858493e+04
+Izx Izy Izz -2.3992085e+02 -1.2858493e+04  1.1351516e+05
+

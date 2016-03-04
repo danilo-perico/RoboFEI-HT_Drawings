@@ -1,0 +1,12 @@
+﻿
+MASS =  1.6710792e+02 GRAM 
+
+CENTER OF GRAVITY with respect to MP_PELV_L coordinate frame:
+X   Y   Z     7.9982774e-02 -1.3873116e+01 -1.8242402e+01  MM
+
+INERTIA at CENTER OF GRAVITY with respect to MP_PELV_L coordinate frame:  (GRAM * MM^2)
+INERTIA TENSOR:
+Ixx Ixy Ixz  1.2259691e+05  7.1127469e+02  8.1143913e+02
+Iyx Iyy Iyz  7.1127469e+02  1.1066637e+05 -7.1635476e+03
+Izx Izy Izz  8.1143913e+02 -7.1635476e+03  4.1877668e+04
+
